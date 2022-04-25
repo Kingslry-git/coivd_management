@@ -1,0 +1,10 @@
+[class*=" el-icon-lx"],
+[class^=el-icon-lx] {
+    font-family: lx-iconfont !important;
+}
+@font-face {
+    font-family: 'iconfont';  /* Project id 3307569 */
+    src: url('//at.alicdn.com/t/font_3307569_bnk5vccgei9.woff2?t=1649425343469') format('woff2'),
+    url('//at.alicdn.com/t/font_3307569_bnk5vccgei9.woff?t=1649425343469') format('woff'),
+    url('//at.alicdn.com/t/font_3307569_bnk5vccgei9.ttf?t=1649425343469') format('truetype');
+}
